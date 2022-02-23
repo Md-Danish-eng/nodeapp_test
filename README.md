@@ -138,7 +138,7 @@ apt install conntrack
 
 #OR you can create k8s cluster
 
-# First create 2 one master and one worker for cluster instance
+# First create 2 instance one master and one worker for cluster 
 
 * for both master and worker:
 
