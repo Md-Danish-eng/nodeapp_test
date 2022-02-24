@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: mddanish123/nodejs-k8s-poc
+        image: thetips4you/nodeapp:latest
         ports:
         - containerPort: 3000
